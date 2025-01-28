@@ -10,3 +10,4 @@ The notebook includes
 1. Basics of DSA, Classes and Functions
 2. Multi threading implementations
 3. Google Photos - Takeout script I wrote
+4. Numpy workouts
