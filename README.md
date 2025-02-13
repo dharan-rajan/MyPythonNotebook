@@ -11,3 +11,4 @@ The notebook includes
 2. Multi threading implementations
 3. Google Photos - Takeout script I wrote
 4. Numpy workouts
+5. Statistics implementations of the concepts I learnt
